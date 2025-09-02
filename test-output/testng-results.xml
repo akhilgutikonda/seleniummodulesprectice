@@ -2,20 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-02T23:15:22 IST" name="Default suite" finished-at="2025-09-02T23:15:29 IST" duration-ms="6794">
+  <suite started-at="2025-09-03T01:24:54 IST" name="Default suite" finished-at="2025-09-03T01:25:07 IST" duration-ms="12504">
     <groups>
     </groups>
-    <test started-at="2025-09-02T23:15:22 IST" name="Default test" finished-at="2025-09-02T23:15:29 IST" duration-ms="6794">
-      <class name="allmodules.GetCurrentUrl">
-        <test-method is-config="true" signature="Lunch()[pri:0, instance:allmodules.GetCurrentUrl@45c7e403]" started-at="2025-09-02T23:15:22 IST" name="Lunch" finished-at="2025-09-02T23:15:29 IST" duration-ms="6623" status="PASS">
+    <test started-at="2025-09-03T01:24:54 IST" name="Default test" finished-at="2025-09-03T01:25:07 IST" duration-ms="12504">
+      <class name="allmodules.WindowHandle">
+        <test-method signature="windowhandle()[pri:0, instance:allmodules.WindowHandle@7586beff]" started-at="2025-09-03T01:24:54 IST" name="windowhandle" finished-at="2025-09-03T01:25:07 IST" duration-ms="12425" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Lunch -->
-        <test-method signature="getCurrentUrl()[pri:0, instance:allmodules.GetCurrentUrl@45c7e403]" started-at="2025-09-02T23:15:29 IST" name="getCurrentUrl" finished-at="2025-09-02T23:15:29 IST" duration-ms="73" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getCurrentUrl -->
-      </class> <!-- allmodules.GetCurrentUrl -->
+        </test-method> <!-- windowhandle -->
+      </class> <!-- allmodules.WindowHandle -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
