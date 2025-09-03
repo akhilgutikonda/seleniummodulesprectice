@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 
 
-public class test{
+public class TestWindowHandles{
 WebDriver driver;
 
 @Test
