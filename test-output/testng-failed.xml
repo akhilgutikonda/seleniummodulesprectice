@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="allmodules.GetCurrentUrl">
+      <class name="allmodules.test">
         <methods>
-          <include name="getCurrentUrl"/>
-          <include name="Lunch"/>
+          <include name="window"/>
         </methods>
-      </class> <!-- allmodules.GetCurrentUrl -->
+      </class> <!-- allmodules.test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

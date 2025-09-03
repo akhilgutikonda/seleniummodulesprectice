@@ -34,7 +34,11 @@ public class WindowHandles {
 	        	 if(WindowTile.equalsIgnoreCase("OrangeHRM")) {
 		        		System.out.println(driver.getCurrentUrl());
 		        	driver.findElement(By.xpath("//input[@class='oxd-input oxd-input--active' and @placeholder='Username']")).sendKeys("Akhil");
+		        
 		        	 }
+	  
+		        
+		        	 
 	          }
 	          
 	}
